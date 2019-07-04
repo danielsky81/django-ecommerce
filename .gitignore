@@ -6,3 +6,5 @@ include/
 lib/
 .bash_aliases
 .Python
+env.py
+
